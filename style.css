@@ -1,0 +1,77 @@
+img {
+    width:400px;
+     height:400px;
+     font-family: 'Pacifico', cursive;
+   }
+   body {
+     font-family: 'Pacifico', cursive;
+     background-color:  #89cff0;
+     color:  #000;
+   }
+   #love-list {
+     margin-top: 45px;
+     list-style-position: inside;
+   }
+   
+   table {
+     border-collapse: collapse;
+      border:5px inset #4CEEBD;
+   }
+      
+   
+    
+   th, td {
+     border: 3px solid #9503C7;
+   
+     
+     padding: 7px;
+     text-align: center;  
+   }
+   
+   #nav {
+     list-style: none;
+     
+   }
+    
+   
+   #nav2 {
+     color: #E80D6D;
+   
+   }
+   #nav3{
+     color: #19A188;
+   }
+   
+   #nav2:hover {
+     color: #000;
+   
+   }
+   #nav3:hover { 
+     color: #000;
+   }
+   
+   nav {
+     text-align: center;
+   }
+   
+   nav ul li {
+     display: inline-block;
+     padding: 10px;
+   }
+   
+   footer {
+     text-align: center;
+   }
+   
+   h1 {
+     text-align: center;
+   }
+   
+   .center {
+     text-align: center; 
+     margin: 0 auto;
+   }
+   
+   #favorite-dash-list {
+     margin-top: 45px;
+   }
